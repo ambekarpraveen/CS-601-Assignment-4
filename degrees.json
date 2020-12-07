@@ -1,0 +1,27 @@
+{
+    "my_degrees": [{
+            "degree": {
+                "School": "California University",
+                "Program/Major": "Computer Science",
+                "Type": "BE",
+                "Year conferred": "2010"
+            }
+        },
+        {
+            "degree": {
+                "School": "Boston University",
+                "Program/Major": "Software Development",
+                "Type": "MS",
+                "Year conferred": "2020"
+            }
+        },
+        {
+            "degree": {
+                "School": "Texas University",
+                "Program/Major": "Artificial Intelligence and Machine Learning",
+                "Type": "Phd",
+                "Year conferred": "2025"
+            }
+        }
+    ]
+}
