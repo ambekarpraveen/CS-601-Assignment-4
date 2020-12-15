@@ -1,0 +1,69 @@
+{
+    "header": {
+        "name": {
+            "first": "Praveen Ambekar",
+            "last": "Satyanarayana Rao"
+        },
+        "contact": {
+            "email": "mchen15@bu.edu",
+            "phone": "425-246-3718",
+            "linkedIn": "https://www.linkedin.com/in/praveen-ambekar-b2644042/"
+        }
+    },
+    "education": [
+        {
+            "name": "Boston University",
+            "degree": "Masters of Science in Software Development",
+            "location": "Boston, MA",
+            "duration": "Sept. 2019 – Dec 2020"
+        },
+        {
+            "name": "Vishweshwariah Technological University",
+            "degree": "Bachelor of Engineering in Electronics & Communication",
+            "location": "Karnataka, INDIA",
+            "duration": "Sep 2006 - May 2010"
+        }
+    ],
+    "skills": {
+        "languages": [
+            "Java",
+            "C++",
+            "C",
+            "C#",
+            "Python",
+            "JavaScript",
+            "Objective - C",
+            "Swift",
+            "Kotin"
+        ],
+        "frameworks": [
+            "React.js",
+            "Vue.js",
+            "Node.js"
+        ],
+        "tools": [
+            "Git",
+            "GitHub",
+            "Postman",
+            "Insomnia",
+            "Firebase",
+            "Amazon Web Services",
+            "Google Cloud",
+            "MS Azure"
+        ]
+    },
+    "experience": [
+        {
+            "title": "CLOUD SOFTWARE ENGINEER",
+            "loc": "Olympus Scientific Solutions",
+            "duration": "Oct 2019 - Current",
+            "desc": ""
+        },
+        {
+            "title": "AWS TECHNICAL INTERN",
+            "loc": "Amazon (Boston Seaport)",
+            "duration": "June – Aug, 2019",
+            "desc": ""
+        }
+    ]
+}
