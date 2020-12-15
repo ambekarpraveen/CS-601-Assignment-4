@@ -54,16 +54,16 @@
     },
     "experience": [
         {
-            "title": "CLOUD SOFTWARE ENGINEER",
-            "loc": "Olympus Scientific Solutions",
-            "duration": "Oct 2019 - Current",
-            "desc": ""
+            "title": "LEAD CONSULTANT",
+            "loc": "Genpact",
+            "duration": "Oct 2014 - Current",
+            "desc": "Integrating mobile application code with back-end services. Creating Pull requests, approving and buddy verifying. Responsible for handling defects in JIRA. Understanding architectural vision and how it helps meet business objectives. Analyzing user stories and participating in effort estimations, sprint planning, scrums, demos and retrospectives. Interact directly with peer developers, Product Management, Design, QA and remote server-side engineering groups as part of a cohesive team."
         },
         {
-            "title": "AWS TECHNICAL INTERN",
-            "loc": "Amazon (Boston Seaport)",
-            "duration": "June – Aug, 2019",
-            "desc": ""
+            "title": "SENIOR PROGRAMMER ANALYST",
+            "loc": "Endeavour software technologies",
+            "duration": "May 2011 – Oct, 2014",
+            "desc": "Design, Development of all the screens for application using cocoa touch, Objective-C. Meeting with business team to discuss the needs and possible solutions. Designing the screens and workflow for iPhone client application. Worked with Backend team to communicate with web services."
         }
     ]
 }
